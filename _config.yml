@@ -85,31 +85,31 @@ author:
   bio              : "I am a Ph.D. student at Institute of Computing Technology, Chinese Academy of Sciences"
   location         : "zh-CN"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=-nLvZtIAAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  email            :  "hulei19z@ict.ac.cn"
+  researchgate     :  "https://www.researchgate.net/profile/Lei-Hu-24?ev=hdr_xprf"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/hlcdyy"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-8938-5071"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  #twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
