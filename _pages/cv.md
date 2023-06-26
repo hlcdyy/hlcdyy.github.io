@@ -15,6 +15,6 @@ Education
 * Ph.D in computer science, Institute of Computing Technology, Chinese Academy of Sciences, 2025 (expected)
 
   
-Chinese CV PDF
+CV PDF
 ======
 You can find my CV in Chinese here: [Lei Hu's Curriculum Vitae](../assets/cv_leihu.pdf)
