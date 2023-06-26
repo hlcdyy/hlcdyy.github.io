@@ -3,7 +3,7 @@ title: "Pose-aware Attention Network for Flexible Motion Retargeting by Body Par
 collection: publications
 permalink: /publication/2023-pan-motion-retargeting
 excerpt: ''
-date: 2023
+date: 2023-01-01
 venue: 'IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS'
 paperurl: 'https://hlcdyy.github.io/pan-motion-retargeting/'
 citation: 'Lei Hu, Zihao Zhang, Chongyang Zhong, Boyuan Jiang, and Shihong Xia. "Pose-Aware Attention Network for Flexible Motion Retargeting by Body Part." IEEE Transactions on Visualization and Computer Graphics (2023).'
