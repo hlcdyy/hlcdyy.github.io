@@ -1,7 +1,7 @@
 ---
 title: "Pose-aware Attention Network for Flexible Motion Retargeting by Body Part"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2023-pan-motion-retargeting
 excerpt: ''
 date: 2023
 venue: 'IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS'
